@@ -1,6 +1,7 @@
 # Recomendado: Python 3.10+ (TensorFlow + MediaPipe en Windows)
 numpy==1.26.4
 opencv-python==4.10.0.84
-mediapipe==0.10.14
+mediapipe==0.10.21
 scikit-learn==1.5.2
-tensorflow==2.15.0
+tensorflow==2.20.0
+protobuf==5.28.3
